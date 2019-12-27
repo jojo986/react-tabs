@@ -33,6 +33,14 @@ header ul li {display: inline-block;padding: 0 10px;line-height: 55px;}
 }
 .text-center {text-align: center;}
 
+.tab-main {width: 100%;}
+body .tab-sec {width: 47%;margin: 0 auto;border: 1px solid #ccc !important;padding: 0;position: relative;}
+body .tab-sec img {max-width: 100%;}
+body .tab-sec span {position: absolute;top: 35%;right: 0;left: 0;color: #fff;font-size: 40px;}
+.tab-content {margin: 20px;}
+.card {padding: 15px;}
+.nav-tabs {border: none;}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
